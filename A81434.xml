@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betwixt the ghosts of Charls the I, late King of England: and Oliver the late usurping Protector.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81434</idno>
+            <idno type="STC">Wing D1357</idno>
+            <idno type="STC">Thomason E985_24</idno>
+            <idno type="STC">ESTC R207869</idno>
+            <idno type="EEBO-CITATION">99866895</idno>
+            <idno type="PROQUEST">99866895</idno>
+            <idno type="VID">168611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168611)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E985[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betwixt the ghosts of Charls the I, late King of England: and Oliver the late usurping Protector.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis = ill.</note>
+                  <note>Annotation on Thomason copy: "June 9.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Dialogues, English --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:168611:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of the ghost of King Charles I of England</figDesc>
+               </figure> 
+               <figure>
+                  <figDesc>depiction of the ghost of Oliver Cromwell</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:168611:1" rendition="simple:additions"/>
+            <p>A DIALOGUE Betwixt the GHOSTS OF CHARLS the I, Late <hi>King</hi> of <hi>England:</hi> AND OLIVER The late Uſurping <hi>PROTECTOR.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1659.</p>
+            <pb facs="tcp:168611:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="4" facs="tcp:168611:3"/>
+            <head>A DIALOGUE BETWIXT The GHOSTS of <hi>CHARLS</hi> late King of <hi>England,</hi> and <hi>Oliver</hi> the late Protector.</head>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>
+                  <hi>TEll me who thou art that thus preſumeſt to diſturb the Aſhes of one that hath been at reſt this ten years.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>It is he that ſent thee to that Reſt, who now would fain be at reſt himſelf, but cannot.</p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>Ha! what doth mine eyes behold, that grand <hi>Rebell</hi> and <hi>Traitor</hi> which was he deſtruction of me and my Family, I command thee to be gone; Was it not enough that in my life time by thy open force, and thy cunning and ſecret Plots, thou and thy Emiſſaries took a<g ref="char:EOLhyphen"/>way mi life, and extirpated my Family, and the Lord knows what
+<pb n="5" facs="tcp:168611:3"/>ruine thou haſt brought upon the poor Kingdomes, that I once hap<g ref="char:EOLhyphen"/>pily Governed, but that thou muſt now purſue me after Death.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>O Sir, Pray forgive me, for you cannot imagine the tor<g ref="char:EOLhyphen"/>tures of conſcience that I indute, when I call to mind all my ambitious and damnable Plots, to ruine you and yours, and to ſet my ſelf in your ſte<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>; It was I that laid the Plot to draw your Subj<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts obedience from you, under pre<g ref="char:EOLhyphen"/>tence of R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligion and Liberty; It was I that after we had Routed your Army in th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fields, j<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gled you into the Iſle of <hi>Wight;</hi> Knowing that the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I had you ſafe enough, and far enough from your Friends and then when there was a Treaty there, and almoſt all agreed betwixt you and the Commiſſio<g ref="char:EOLhyphen"/>ners, I by my dam'd Policy and Power, broke off the Treaty, and all to get the Government my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>Who, thee the Government, why how couldſt thou expect the Go<g ref="char:EOLhyphen"/>vernment, didſt thou think that ſuch a free born people a they of <hi>England</hi> would be come ſubject to ſuch a mean born <hi>Traitor</hi> as thee; beſides (if you ſwords muſt carry it) you were but Lieut. Gen. <hi>Fairfax</hi> was your Bru<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh Generall, (as in my life time I once ſtiled him.)</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>Alas Sir, ſee how far your honeſty miſleads you; I had no ſooner cauſed your head to be taken off, but I was ſens over into <hi>Ireland,</hi> where I was made Lord Deputy.</p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>Oh! Name <hi>Ireland</hi> and Deputy no more, for that puts me in mind of my weakneſs in ſubſcribing to that wicked Bill, for putting<hi>Stafford</hi> to death, but go on with thy Diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>So having brought that Kingdom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> under obedience to the Parliament (as I then pretended) thy <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on being own'd by thy
+<pb n="6" facs="tcp:168611:4"/>Native Country-men the <hi>Scots;</hi> There was an Army to be ſent againſt them which <hi>Fairfaxes</hi> tender judgment would not ad<g ref="char:EOLhyphen"/>mit off. The which I preſently accepted off; and <hi>Jehu</hi> like run over all <hi>Scotland,</hi> and took all their Gariſons, and in two Field Fights, the one at <hi>Dunbar</hi> in <hi>Scotland,</hi> the other at <hi>Worceſter</hi> in <hi>England,</hi> overthrew thy Son <hi>Charles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>My Son <hi>Charles,</hi> and haſt thou Murdered him too, or prethee <hi>Traitor</hi> tell me how he eſcaped thy bloody Thirſty hands, or how came it to paſs that treacherous Nation did not ſell him to thee, as well as they did ſell me.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>They would have delivered him to me; but he was too wiſe for them, for after the field was loſt at <hi>Worceſter,</hi> he with the help of one or two, of his choice friends in a diſguiſe mira<g ref="char:EOLhyphen"/>culouſly made an eſcape to London, and from thence beyond the Seas, where I did uſe all the Plots, and Stratagems to de<g ref="char:EOLhyphen"/>ſtroy him, but all in vain.</p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>Oh how mercifull is the Almighty God, (that although he was pleaſed in order to theſe mutations and changes which have ſince fallen upon theſe three Nations) to let me fall into thy wicked and bloody hand, that he ſhould be ſo gracious, to let my Son eſcape thee, and thy implacable cruely: Surely he hath reſerv'd him for a fur<g ref="char:EOLhyphen"/>ther <hi>Work,</hi> for the good of theſe Nations; but go on.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>So having ſubdued all the Enemies of the Common-wealth, (as I called them) but the greateſt, which was my Self; I diſ<g ref="char:EOLhyphen"/>poſed of my force, for my advantage throughout the three Nations; and then that which was, accounted a high breach of Parliament in thee, to deſire but five Members of Parliament, to be brought to a Legall Tryall (in me was no<g ref="char:EOLhyphen"/>thing at one time to turne out fifty, and then afterwards all of them, and ſo made my ſelf, with the help of two or three corrupt Iudges, and the power of my ſword, Protector over
+<pb n="7" facs="tcp:168611:4"/>the three Nations of <hi>England, Scotland, and Ireland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>Oh horror! them Nations ſurely were well protected by thee; But it is ſtrange to me my Subjects the Engliſh (for I know the other two Na<g ref="char:EOLhyphen"/>tions would quickly be brought to any Government) thy Tyranny wold impoſe on them ſhould indure o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of ſo low a Birth as thee to rule over them; They being wholy addicted to Kingly Government, and their Ancient Nobles.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>Alas Sir, ſee your goodneſs and mild diſpoſition, What I got by my Tyranny, that I held by oppreſſion; not ſparing any that did in the leaſt ſeem to oppoſe me; Let them either be ſuch as had been of your ſide, or them that were for the Parliament; but them of your ſide it were too long to tell the horrid and damnable contrivances I had againſt them, to the ruine of all or moſt of them and their families; Making Plots my ſelf, and fathering them upon them, that ſo I might have occaſion to take away their lives, or at leaſt to get their Eſtates. And I never wanted my Engines to ſwear and to for<g ref="char:EOLhyphen"/>ſwear, or Act what I had a mind too. But oh the Sting of Con<g ref="char:EOLhyphen"/>ſcience that troubles me, now too late I find the horridneſs of my Crimes, by oppreſſing the righteous, and ſpilling the blood of the innocent; Oh Sir little do you think what I feel for now I find the reward of all my evill doings.</p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>But prethee tell me how cameſt thee hither; Did the people call thee to an account, and put thee to death by the hand of Juſtice, or did ſome free born ſubject of <hi>England</hi> ſtab thee or take away thy life ſome other way; for ſurely ſuch a Rebel, Traitor, and Tyrant, could never dye in peace, withou an open puniſhment for ſuch offences as thou hast committed.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:168611:5"/>
+               <speaker>Oliver.</speaker>
+               <p>Sir, I beleeve you had cauſe to know me better in my life time, then to think that I would be deſtroyed by any private hand; I had read too much of <hi>Machivil</hi> for that, my Guards were ſtrong and all my own Creatures; And to tell you the truth my Reign was, (as all Uſurpers muſt be) more like to a Hell then a Heaven, my Palace being a Priſon to me; I not daring to ſtir out of it, without a guard ſufficient to ſtorm a City, and if I had had not Enemies, my own thoughts had been enough; for if I lookt one way me thought I ſee you without a Head bleeding afreſh, as if there had been a Deluge, to drown'd me and all my Crew in blood. If I lookt another way me thought I ſee your Sons and Friends all with their ſwords drawn and Arm'd Cap-a-Pee, to take Vengeance on me, for deſtroying of ſo good a King. Thus having Tyranniz<g ref="char:EOLhyphen"/>ed as Protector over the people for almoſt ſix years, it pleaſed the Lord in his wiſdome and Juſtice at laſt to Viſit me with two or three ſtrong diſeaſes which (as I was alwayes Violent) at laſt Violently hurried me out of that world wherein I had Acted ſo many Tragedies, whereof your ſelf was witneſs of ſome, and to tell you the reſt would fil a volume; but hold my pains come on me I muſt leave you, and repaire to my Stati<g ref="char:EOLhyphen"/>on. Farewell.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
